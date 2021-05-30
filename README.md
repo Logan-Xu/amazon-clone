@@ -1,7 +1,5 @@
 # A fake Amazon website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 This project is a learning of a full-stack project with React JS, with Google Firebase for authentication and Stripe for payments, and deployed on Firebase platform. The front-end part was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app). And the back-end was Node JS and Express. I learned to make it from https://www.youtube.com/watch?v=RDV3Z1KCBvo
 
 ## Tech Stack
