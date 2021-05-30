@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# A fake Amazon website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+This project is a learning of a full-stack project with React JS, with Google Firebase for authentication and Stripe for payments, and deployed on Firebase platform. The front-end part was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app). And the back-end was Node JS and Express. I learned to make it from https://www.youtube.com/watch?v=RDV3Z1KCBvo
 
-In the project directory, you can run:
+## Tech Stack
 
-### `yarn start`
+1. ReactJs(including Hooks)
+2. NodeJs
+3. Express
+4. Firebase platform
+5. Stripe payments platform
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Mockup
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. Home Page
+![home](https://user-images.githubusercontent.com/61717396/120123919-f5813a00-c1f4-11eb-9f01-ea314f10afc8.png)
 
-### `yarn test`
+2. Checkout Page
+![checkout](https://user-images.githubusercontent.com/61717396/120123928-016cfc00-c1f5-11eb-8ffb-f8e8bd8c6bda.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Login Page
+![login](https://user-images.githubusercontent.com/61717396/120123937-0a5dcd80-c1f5-11eb-86e6-3293ee2393b9.png)
 
-### `yarn build`
+4. Payment Page
+![payment](https://user-images.githubusercontent.com/61717396/120123943-12b60880-c1f5-11eb-8bc7-a97f3e3a24c0.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. Order History Page
+![order](https://user-images.githubusercontent.com/61717396/120123953-1c3f7080-c1f5-11eb-91e5-614af54a9341.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. Test payments dashboard on Stripe
+![stripe](https://user-images.githubusercontent.com/61717396/120123963-26616f00-c1f5-11eb-8089-b137dbcc9cb5.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+7. Firestore Database
+![firebase](https://user-images.githubusercontent.com/61717396/120123977-32e5c780-c1f5-11eb-968c-b3c95c781431.png)
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
